@@ -1,0 +1,5 @@
+instances/*.cnf
+instances/*.out
+instances/*.log
+*.pyc
+__pycache__/
