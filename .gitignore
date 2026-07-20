@@ -3,3 +3,8 @@ instances/*.out
 instances/*.log
 *.pyc
 __pycache__/
+node_modules/
+relatorio.pdf
+relatorio.docx
+page-*.jpg
+build_report.js
