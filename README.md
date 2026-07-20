@@ -64,4 +64,5 @@ tempo de execucao e grava um resumo em `results/resultados.csv`.
 
 ## Autores
 
-Preencher com os nomes dos integrantes da equipe antes da entrega.
+- Heitor Lacerda Santana de Sousa — github: [HeiLacerda](https://github.com/HeiLacerda)
+- Iago Fernando Barbosa Nunes Conserva — github: [IagoBNC](https://github.com/IagoBNC)
